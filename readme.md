@@ -1,5 +1,7 @@
 # 在 VMware Workstation 17 上安裝並優化 Windows 11 以運行楓之谷
 
+> 本教學參考自 [Grizz 的 YouTube 影片](https://www.youtube.com/watch?v=xVF6Kh9zLqQ) 並加以改良，適合中文使用者操作。
+
 本指南將帶你一步步完成在 VMware Workstation 17 虛擬機上安裝 Windows 11 並優化顯示卡資訊，以便順利運行楓之谷。
 
 ## 前置準備
